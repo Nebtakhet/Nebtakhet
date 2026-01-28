@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 ## Hi, I’m César 👋
 
 **Junior Software Developer** focused on **backend systems, security, and low-level programming**.  
