@@ -35,7 +35,7 @@ systems programming, and real-time graphics.
 - **42-Cub3d** — Raycasting game engine in C  
   Repo: https://github.com/Nebtakhet/42-Cub3d
 - **minishell** — Unix-style shell implementation  
-  Repo: https://github.com/Nebtakhet/minishell
+  Repo: https://github.com/Nebtakhet/42-minishell
 
 ### 🎯 Open To
 Junior roles in **backend development**, **systems programming**, or **game programming**,
