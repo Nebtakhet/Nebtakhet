@@ -105,7 +105,7 @@ Background in **screenwriting and filmmaking**, which influences my interest in 
 
 ## 📫 Contact
 
-LinkedIn  Remove
+LinkedIn
 https://www.linkedin.com/in/nebtakhet  
 
 GitHub  
