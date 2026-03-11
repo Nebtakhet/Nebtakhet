@@ -103,10 +103,3 @@ Background in **screenwriting and filmmaking**, which influences my interest in 
 
 ---
 
-## 📫 Contact
-
-LinkedIn
-https://www.linkedin.com/in/nebtakhet  
-
-GitHub  
-https://github.com/Nebtakhet
