@@ -1,4 +1,4 @@
-<!-- ![Banner](./banner.png) -->
+![Banner](./banner.png) 
 
 ## Hi, I’m César 👋
 
@@ -105,7 +105,7 @@ Background in **screenwriting and filmmaking**, which influences my interest in 
 
 ## 📫 Contact
 
-LinkedIn  
+LinkedIn  Remove
 https://www.linkedin.com/in/nebtakhet  
 
 GitHub  
