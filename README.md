@@ -22,7 +22,7 @@ I enjoy working close to the fundamentals of software — **memory, concurrency,
 ## 🧰 Tech Stack
 
 **Languages**  
-C • C++ • Python • C# (learning)
+C • C++ • Python • C#
 
 **Backend**  
 FastAPI • PostgreSQL • JWT • Docker
